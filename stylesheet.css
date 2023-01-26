@@ -151,9 +151,10 @@ textarea
 body 
 { 
    background-image: url(images/fond.jpg); 
-   background-repeat: repeat;
+   background-repeat: no-repeat;
    /*background-position: left;*/
-   font-family: Arial ;    
+   font-family: Arial ;
+   background-size: cover; 
 }
 
 h1 
